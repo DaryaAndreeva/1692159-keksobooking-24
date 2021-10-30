@@ -1,7 +1,9 @@
 # Личный проект «Кексобукинг»
 
 * Студент: [Дарья Андреева](https://up.htmlacademy.ru/javascript/24/user/1692159).
+
 * Наставник: [Александр Карцев](https://htmlacademy.ru/profile/id663289).
+
 
 ---
 

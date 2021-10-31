@@ -8,6 +8,6 @@ function getRandomFigure(a, b) {
 
 
   function getRandomArbitrary(a, b, c) {
-    return Math.round(Math.random() * ((b - a)*10**c)/10**c;
+    return (Math.random() * (b - a)).toFixed(c)
   }
  

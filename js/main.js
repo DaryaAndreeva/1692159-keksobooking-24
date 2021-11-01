@@ -1,7 +1,7 @@
 
 function getRandomFigure(from, to) {
-  min = Math.ceil(from);
-  max = Math.floor(to);
+  let min = Math.ceil(from);
+  let max = Math.floor(to);
   return Math.random() * (max - min + 1) + min;
 }
 
